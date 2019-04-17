@@ -1,5 +1,5 @@
 # maze-runner
-A popular maze runner game implemented using C++ and OpenGL. Developed during my semester as part of IEEE-Envision.
+A popular maze runner game implemented using C++ and OpenGL. Developed during my second semester as part of IEEE-Envision.
 
 ### How to run
 Compile the C++ program with the following command :
